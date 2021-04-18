@@ -1,0 +1,13 @@
+E:\Bob\IfElseBob\bin\Debug\netcoreapp3.1\IfElseBob.exe
+E:\Bob\IfElseBob\bin\Debug\netcoreapp3.1\IfElseBob.deps.json
+E:\Bob\IfElseBob\bin\Debug\netcoreapp3.1\IfElseBob.runtimeconfig.json
+E:\Bob\IfElseBob\bin\Debug\netcoreapp3.1\IfElseBob.runtimeconfig.dev.json
+E:\Bob\IfElseBob\bin\Debug\netcoreapp3.1\IfElseBob.dll
+E:\Bob\IfElseBob\bin\Debug\netcoreapp3.1\IfElseBob.pdb
+E:\Bob\IfElseBob\obj\Debug\netcoreapp3.1\IfElseBob.csprojAssemblyReference.cache
+E:\Bob\IfElseBob\obj\Debug\netcoreapp3.1\IfElseBob.AssemblyInfoInputs.cache
+E:\Bob\IfElseBob\obj\Debug\netcoreapp3.1\IfElseBob.AssemblyInfo.cs
+E:\Bob\IfElseBob\obj\Debug\netcoreapp3.1\IfElseBob.csproj.CoreCompileInputs.cache
+E:\Bob\IfElseBob\obj\Debug\netcoreapp3.1\IfElseBob.dll
+E:\Bob\IfElseBob\obj\Debug\netcoreapp3.1\IfElseBob.pdb
+E:\Bob\IfElseBob\obj\Debug\netcoreapp3.1\IfElseBob.genruntimeconfig.cache
