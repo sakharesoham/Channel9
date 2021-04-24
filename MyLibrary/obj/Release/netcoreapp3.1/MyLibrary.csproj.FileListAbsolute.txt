@@ -1,0 +1,8 @@
+E:\Bob\MyLibrary\bin\Release\netcoreapp3.1\MyLibrary.deps.json
+E:\Bob\MyLibrary\bin\Release\netcoreapp3.1\MyLibrary.dll
+E:\Bob\MyLibrary\bin\Release\netcoreapp3.1\MyLibrary.pdb
+E:\Bob\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.AssemblyInfoInputs.cache
+E:\Bob\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.AssemblyInfo.cs
+E:\Bob\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.csproj.CoreCompileInputs.cache
+E:\Bob\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.dll
+E:\Bob\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.pdb
