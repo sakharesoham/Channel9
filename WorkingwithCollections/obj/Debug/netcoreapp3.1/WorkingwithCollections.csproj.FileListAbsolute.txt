@@ -1,0 +1,13 @@
+E:\Bob\WorkingwithCollections\bin\Debug\netcoreapp3.1\WorkingwithCollections.exe
+E:\Bob\WorkingwithCollections\bin\Debug\netcoreapp3.1\WorkingwithCollections.deps.json
+E:\Bob\WorkingwithCollections\bin\Debug\netcoreapp3.1\WorkingwithCollections.runtimeconfig.json
+E:\Bob\WorkingwithCollections\bin\Debug\netcoreapp3.1\WorkingwithCollections.runtimeconfig.dev.json
+E:\Bob\WorkingwithCollections\bin\Debug\netcoreapp3.1\WorkingwithCollections.dll
+E:\Bob\WorkingwithCollections\bin\Debug\netcoreapp3.1\WorkingwithCollections.pdb
+E:\Bob\WorkingwithCollections\obj\Debug\netcoreapp3.1\WorkingwithCollections.csprojAssemblyReference.cache
+E:\Bob\WorkingwithCollections\obj\Debug\netcoreapp3.1\WorkingwithCollections.AssemblyInfoInputs.cache
+E:\Bob\WorkingwithCollections\obj\Debug\netcoreapp3.1\WorkingwithCollections.AssemblyInfo.cs
+E:\Bob\WorkingwithCollections\obj\Debug\netcoreapp3.1\WorkingwithCollections.csproj.CoreCompileInputs.cache
+E:\Bob\WorkingwithCollections\obj\Debug\netcoreapp3.1\WorkingwithCollections.dll
+E:\Bob\WorkingwithCollections\obj\Debug\netcoreapp3.1\WorkingwithCollections.pdb
+E:\Bob\WorkingwithCollections\obj\Debug\netcoreapp3.1\WorkingwithCollections.genruntimeconfig.cache
