@@ -1,0 +1,13 @@
+E:\Bob\UnderstandingTimers\bin\Debug\netcoreapp3.1\UnderstandingTimers.exe
+E:\Bob\UnderstandingTimers\bin\Debug\netcoreapp3.1\UnderstandingTimers.deps.json
+E:\Bob\UnderstandingTimers\bin\Debug\netcoreapp3.1\UnderstandingTimers.runtimeconfig.json
+E:\Bob\UnderstandingTimers\bin\Debug\netcoreapp3.1\UnderstandingTimers.runtimeconfig.dev.json
+E:\Bob\UnderstandingTimers\bin\Debug\netcoreapp3.1\UnderstandingTimers.dll
+E:\Bob\UnderstandingTimers\bin\Debug\netcoreapp3.1\UnderstandingTimers.pdb
+E:\Bob\UnderstandingTimers\obj\Debug\netcoreapp3.1\UnderstandingTimers.csprojAssemblyReference.cache
+E:\Bob\UnderstandingTimers\obj\Debug\netcoreapp3.1\UnderstandingTimers.AssemblyInfoInputs.cache
+E:\Bob\UnderstandingTimers\obj\Debug\netcoreapp3.1\UnderstandingTimers.AssemblyInfo.cs
+E:\Bob\UnderstandingTimers\obj\Debug\netcoreapp3.1\UnderstandingTimers.csproj.CoreCompileInputs.cache
+E:\Bob\UnderstandingTimers\obj\Debug\netcoreapp3.1\UnderstandingTimers.dll
+E:\Bob\UnderstandingTimers\obj\Debug\netcoreapp3.1\UnderstandingTimers.pdb
+E:\Bob\UnderstandingTimers\obj\Debug\netcoreapp3.1\UnderstandingTimers.genruntimeconfig.cache
